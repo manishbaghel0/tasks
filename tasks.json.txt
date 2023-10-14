@@ -1,32 +1,36 @@
-{{
-  "id": 01,
-  "title": "perfume Oil",
-  "description": "Mega Discount, Impression of A...",
-  "price": 13,
-  "discountPercentage": 8.4,
-  "rating": 4.26
-},
 {
-  "id": 01,
-  "title": "perfume Oil",
-  "description": "Mega Discount, Impression of A...",
-  "price": 13,
-  "discountPercentage": 8.4,
-  "rating": 4.26
-},{
-  "id": 01,
-  "title": "perfume Oil",
-  "description": "Mega Discount, Impression of A...",
-  "price": 13,
-  "discountPercentage": 8.4,
-  "rating": 4.26
-},
-{
-  "id": 01,
-  "title": "perfume Oil",
-  "description": "Mega Discount, Impression of A...",
-  "price": 13,
-  "discountPercentage": 8.4,
-  "rating": 4.26
-}
+  "data": [
+    {
+      "id": 01,
+      "title": "perfume Oil",
+      "description": "Mega Discount, Impression of A...",
+      "price": 13,
+      "discountPercentage": 8.4,
+      "rating": 4.26
+    },
+    {
+      "id": 02,
+      "title": "perfume Oil",
+      "description": "Mega Discount, Impression of A...",
+      "price": 13,
+      "discountPercentage": 8.4,
+      "rating": 4.26
+    },
+    {
+      "id": 03,
+      "title": "perfume Oil",
+      "description": "Mega Discount, Impression of A...",
+      "price": 13,
+      "discountPercentage": 8.4,
+      "rating": 4.26
+    },
+    {
+      "id": 01,
+      "title": "perfume Oil",
+      "description": "Mega Discount, Impression of A...",
+      "price": 13,
+      "discountPercentage": 8.4,
+      "rating": 4.26
+    }
+  ]
 }
